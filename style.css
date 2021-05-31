@@ -1,4 +1,4 @@
-body{
+body {
   background-color: peachpuff;
   margin: none;
 }
@@ -7,15 +7,15 @@ h2 {
   position: fixed;
   width: 100%;
   font-size: 200%;
-  background-color: DodgerBlue;
+  background-color: dodgerblue;
   text-align: center;
-  margin-top: 0px;
+  margin-top: none;
   padding: 16px;
 }
 
 #left {
   float: left;
-  margin: 10px; 
+  margin: 10px;
 }
 
 #big {
