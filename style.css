@@ -27,3 +27,22 @@ h2 {
   width: 100px;
   float: left;
 }
+
+.heading {
+  font-size: 60px;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 40px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+}
