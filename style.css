@@ -1,0 +1,29 @@
+body{
+  background-color: peachpuff;
+  margin: none;
+}
+
+h2 {
+  position: fixed;
+  width: 100%;
+  font-size: 200%;
+  background-color: DodgerBlue;
+  text-align: center;
+  margin-top: 0px;
+  padding: 16px;
+}
+
+#left {
+  float: left;
+  margin: 10px; 
+}
+
+#big {
+  height: 500px;
+  width: 2000px;
+}
+
+.right {
+  width: 100px;
+  float: left;
+}
